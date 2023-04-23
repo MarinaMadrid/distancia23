@@ -5,7 +5,7 @@
 * @access public
 * @link https://www.youtube.com/watch?v=VAH-ixdFWFs&ab_channel=ThePetCollective
 * @author Marina Madrid García
-* @verion abril2023
+* @verion 23abril2023
 */
 class Perro {
  //Declaración de propiedades
@@ -19,7 +19,7 @@ class Perro {
  * @param String $nombre nombre del perro
  * @link https://www.cutiedogs.com
  * @author Marina Madrid García
- * @version abril2023
+ * @version 23abril2023
  */
  public function mostrarNombre($nombre){
   echo $this->nombre = $nombre;
@@ -31,7 +31,7 @@ class Perro {
  * @param String $raza raza del perro
  * @link https://www.razasdeperro.com
  * @author Marina Madrid García
- * @version abril2023
+ * @version 23abril2023
  */
  public function mostrarRaza($raza){
   echo $this->raza = $raza;

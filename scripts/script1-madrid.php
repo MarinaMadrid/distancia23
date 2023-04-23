@@ -6,7 +6,7 @@
  * @access public
  * @link https://www.educalim.com/biblioteca/mate/mate.html
  * @author Marina Madrid García
- * @version abril2023
+ * @version 23abril2023
  */
  function cuadrado($num) {
  return $num * $num; //devolver el resultado
@@ -21,7 +21,7 @@ dos números introducidos por paramétro y devuelve su resultado
  * @access public
  * @link https://www.educalim.com/biblioteca/mate/mate.html
  * @author Marina Madrid García
- * @version abril2023
+ * @version 23abril2023
  */
  function operaciones($n1, $n2, $operacion) {
  $resultado = 0;
